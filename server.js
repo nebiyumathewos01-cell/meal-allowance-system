@@ -16,7 +16,7 @@ const dashboardRoutes   = require('./routes/dashboard');
 const authRoutes        = require('./routes/auth');
 
 const app  = express();
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 // ---- MIDDLEWARE ----
 // Middleware runs before every request
