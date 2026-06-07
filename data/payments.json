@@ -1,0 +1,20 @@
+[
+  {
+    "paymentId": "PAY1780774712361",
+    "studentId": "wcu170167",
+    "month": "January",
+    "year": "2025",
+    "amount": 3000,
+    "status": "Paid",
+    "paidAt": "2026-06-06T19:38:32.361Z"
+  },
+  {
+    "paymentId": "PAY1780789865930",
+    "studentId": "wcu170167",
+    "month": "February",
+    "year": "2025",
+    "amount": 3000,
+    "status": "Paid",
+    "paidAt": "2026-06-06T23:51:05.930Z"
+  }
+]
